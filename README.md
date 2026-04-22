@@ -6,7 +6,7 @@ The official **55-page research paper** for Mozone AI — a comprehensive techni
 
 This research paper documents the complete design and reasoning behind Mozone AI, including the news-intelligence layer, pattern-recognition model trained on 200M+ historical trades, risk framework, N8N execution pipeline, $MZONE token economics, and the full four-phase roadmap.
 
-- **Agent Launch:** 3 April 2026
+- **Agent Launch:** 3 May 2026
 - **Chain:** Binance Smart Chain (BEP-20)
 - **Token Contract:** `0x49d6d5359cE2BB622a783AB31cc833e34d88f597`
 

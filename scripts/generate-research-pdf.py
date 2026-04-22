@@ -493,7 +493,7 @@ PAPER_HTML = """<!DOCTYPE html>
   <li>Withdrawal windows for airdrop participants</li>
 </ul>
 
-<h3>11.2 Phase 2: Agent Launch (3 April 2026)</h3>
+<h3>11.2 Phase 2: Agent Launch (3 May 2026)</h3>
 <ul style="margin-left:20px; margin-bottom:12px;">
   <li>Mozone AI goes live with subscription access</li>
   <li>Live trading dashboard for subscribers</li>

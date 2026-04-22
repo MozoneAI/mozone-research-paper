@@ -23,7 +23,7 @@ def add_section11(story, s, make_table, hr):
             ["Website Launch", "Complete", "Mar 2026", "Marketing website with research, whitepaper, socials"],
             ["Research Paper", "Complete", "Apr 2026", "55-page comprehensive technical documentation"],
             ["Token Contract Deploy", "Complete", "Apr 2026", "BEP-20 contract: 0x49d6d5359cE2BB622a783AB31cc833e34d88f597"],
-            ["Agent Launch", "Scheduled", "3 Apr 2026", "Live autonomous trading agent activation"],
+            ["Agent Launch", "Scheduled", "3 May 2026", "Live autonomous trading agent activation"],
             ["PancakeSwap Listing", "Planned", "Q2 2026", "DEX liquidity provision and trading pair creation"],
         ],
         col_widths=[110, 65, 70, 215]))
